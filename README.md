@@ -3,6 +3,7 @@
 HOW TO RUN PROJECT :
 1)clone repository
 2)open folder
+3)create dotenv file in backend for database url.
 3)cd backend --> npm install --> npm start
 4)cd frontend --> npm install -->npm start
 
